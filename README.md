@@ -1,3 +1,3 @@
 # Olá, bem vindo!
-## Sou Adyson Lima, desenvolvedor Ruby on Rails Full Stack | Angular | Flutter
-### Linkedin: https://www.linkedin.com/in/adyson-lima-programador/
+### Meu Linkedin: https://www.linkedin.com/in/adyson-lima-programador/
+<img src="https://github.com/Adyson-Lima-Programador/Adyson-Lima-Programador/blob/main/Adyson-Lima-Programador.png" width="100%" height="50%">
